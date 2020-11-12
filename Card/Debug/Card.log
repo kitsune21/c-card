@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\cecil\desktop\c stuff\card\card\main.c(31): warning C4101: 'nextDeck': unreferenced local variable
+  Card.vcxproj -> C:\Users\Cecil\Desktop\C Stuff\Card\Debug\Card.exe
